@@ -1,0 +1,1 @@
+This project was moved to [Github](https://github.com/pires/android-obd-reader).
